@@ -69,6 +69,21 @@ Designed an AI-enhanced mobile application that:
 - Improved readability and usability of weather data
 - Designed scalable UI system for mobile deployment
 
+## System Design
+
+Mobile UI → API → ML Model → Prediction Output
+
+---
+
+## Features
+- weather prediction
+- API integration
+- data processing
+
+---
+
+## Result
+- achieved accurate predictions based on historical data
 ---
 
 ## Future Improvements
